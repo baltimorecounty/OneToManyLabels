@@ -1,3 +1,5 @@
+'Be sure to replace <userID> and <password> with your credentials.
+
 Function FindLabel ( [PARCELID] )
 Dim strPrclQry, strInfo, strInfo2
 strPrclQry = "SELECT VW_ZONINGHISTORYPARCELS.PARCELID, VW_ZONINGHISTORYPARCELS.CASENUMCOMBINED FROM LANDUSE.VW_ZONINGHISTORYPARCELS WHERE PARCELID = '" & [PARCELID] & "'"
