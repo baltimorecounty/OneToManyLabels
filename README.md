@@ -15,3 +15,5 @@ You must change the [CASENUMCOMBINED] field to the field name you wish to displa
 After you make the changes, paste the code into the feature class. Go to properties, then the label tab, click expression and then click the advanced box. Paste the code over anything that may already exist in the box.
 
 I have included a screen shot that shows the end result. The format of the labels will depend on how you set up your labels appearance settings.
+
+![Alt text](/example.gif)
