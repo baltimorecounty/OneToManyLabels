@@ -1,4 +1,4 @@
-'Be sure to replace <userID> and <password> with your credentials.
+'Be sure to replace <userID> and <password> with your credentials, replacing the <> as well.
 
 Function FindLabel ( [PARCELID] )
 Dim strPrclQry, strInfo, strInfo2
